@@ -1,4 +1,5 @@
-# 👑 JavaScript Workshop: Transformation with .map() Who doesn't love a good before and after
+# 👑 JavaScript Workshop: Transformation with .map() 
+  Who doesn't love a good before and after?
 
 ## 🧠 What You’ll Learn
 
