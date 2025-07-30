@@ -10,4 +10,4 @@ By the end of this workshop, you will be able to:
 ✅ Recognize the difference between `.map()` and `for...of` loops  
 ✅ Debug common mistakes when using `.map()`
 
-Slide Deck here(https://docs.google.com/presentation/d/1ZJ6_E3aeKRG0pp2lhsjhdVGnaH02_ge0YfvMxcxlQyQ/edit?usp=sharing)
+Slide Deck [here](https://docs.google.com/presentation/d/1ZJ6_E3aeKRG0pp2lhsjhdVGnaH02_ge0YfvMxcxlQyQ/edit?usp=sharing)
